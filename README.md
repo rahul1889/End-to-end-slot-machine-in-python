@@ -1,0 +1,1 @@
+In this project i have created slot spining machine end to end. for this i have take a reference from youtube channel (https://www.youtube.com/@techwithtim) you can found a video on his channel for more detailed explanation.
